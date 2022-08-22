@@ -10,16 +10,6 @@
 
 # Hi There
 
-<p>
-This is an open-source repository for all who want to learn front-end Development.</p>
-
-<br>
-<h2 align="center" ><strong>Front-end development</strong></h2><br>
-
-> **Front-end web development** is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
-> <br>
-
-**Make sure to show your support by star mark & sharing the repository**
 
 # A List of Useful Resources for Front End Developers
 
